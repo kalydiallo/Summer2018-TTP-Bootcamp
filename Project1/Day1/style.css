@@ -1,0 +1,45 @@
+h1{
+	background: red;
+	text-align: center;
+}
+
+p{
+	background-color: ccc;
+	color: grey;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+	/*float: left;*/
+	
+}
+li{
+	float: left;
+}
+
+li a{
+	display: inline;
+	/*color: white;*/
+	text-align: center;
+	margin: 20px;
+	/*padding: 50px;*/
+	text-decoration: none;
+}
+
+video{
+	width: 100%;
+	/*margin: 0 auto;*/
+}
+audio{
+	padding-top: 50px;
+}
+
+.Myfooter{
+	text-align: center;
+	background-color: black;
+
+}
